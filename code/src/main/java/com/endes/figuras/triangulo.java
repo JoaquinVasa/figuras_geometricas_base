@@ -2,8 +2,8 @@ package com.endes.figuras;
 
 public class triangulo extends FiguraGeometrica{
 
-	public triangulo(String nombre, String color) {
-		super(nombre, color);
+	public triangulo(String hola, String diablo) {
+		super(hola, diablo);
 		// TODO Auto-generated constructor stub
 	}
 
