@@ -8,9 +8,9 @@ El proyecto está diseñado para servir como base de un sistema de geometría 2D
 ## Integrantes del equipo
 | Nombre | Figura asignada |
 |--------|----------------|
-| Juan Pérez | Cuadrado |
-| María López | Punto |
-| Carlos Gómez | FiguraGeometrica (clase base) |
+| Joaquín Vázquez | Triangulo |
+| Manuel López | Cuadrado |
+| Gabriel Villegas | Círculo) |
 
 ## Estructura del proyecto
 - `com.endes.figuras.FiguraGeometrica` → Clase abstracta base para todas las figuras.
