@@ -1,5 +1,10 @@
 package com.endes.figuras;
 
+/**
+ * Representa un punto en el plano cartesiano con coordenadas (x, y).
+ * Permite obtener y modificar las coordenadas, así como calcular la distancia
+ * entre este punto y otro.
+ */
 public class Punto {
     private double x;  // Coordenada X
     private double y;  // Coordenada Y

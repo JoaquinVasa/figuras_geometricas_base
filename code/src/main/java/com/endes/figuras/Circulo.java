@@ -1,5 +1,12 @@
 package com.endes.figuras;
 
+/**
+ * Representa un círculo en el plano cartesiano con un centro de tipo {@link Punto} 
+ * y un radio.
+ * Extiende la clase {@link FiguraGeometrica} y sobrescribe los métodos para calcular 
+ * el área, el perímetro y mover el círculo.
+ */
+
 public class Circulo extends FiguraGeometrica {
     private Punto centro;  // El centro del círculo
     private double radio;  // El radio del círculo
