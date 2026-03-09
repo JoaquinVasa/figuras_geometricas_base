@@ -42,4 +42,3 @@ public class Punto {
         return Math.sqrt(dx * dx + dy * dy);
     }
 }
-
