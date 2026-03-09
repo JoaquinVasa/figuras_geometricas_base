@@ -8,10 +8,11 @@ package com.endes.figuras;
  * 
  * Implementa {@link Comparable} para proporcionar un orden natural basado en el área.
  * 
- * @author Tu nombre
+ * @author Manuel
  * @version 1.0
  * @since 1.8 
  */
+
 public abstract class FiguraGeometrica implements Comparable<FiguraGeometrica> {
     /**
      * Nombre de la figura geométrica.
